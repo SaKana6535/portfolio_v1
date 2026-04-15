@@ -29,7 +29,7 @@ export default function Home() {
                 Software Engineer
               </p>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed">
-                2025年現在、大阪公立大学 工学部 情報工学科 4年生<br />
+                2026年現在、大阪公立大学院 情報学研究科 修士1年<br />
               </p>
               
               {/* CTAボタン */}
